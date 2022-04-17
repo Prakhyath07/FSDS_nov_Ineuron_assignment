@@ -31,7 +31,7 @@ select first_name as WORKER_NAME from Workers
 2)--->
 select Distinct Department from Workers
 
-3)----->
+3)--->
 (select * from Workers order by ID Desc limit 5)
 order by ID Asc;
 
