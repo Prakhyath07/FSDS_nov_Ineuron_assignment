@@ -1,0 +1,7 @@
+body {
+  background-color: #008080;
+}
+body * {
+  box-sizing: border-box;
+}
+
